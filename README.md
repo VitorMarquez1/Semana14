@@ -19,6 +19,7 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 **Print da tela com a implementação**
 
 << Coloque aqui uma breve explicação da implementação feita nessa etapa>>
+Nesta etapa, foi criada uma página de estatísticas (public/estatisticas.html) que usa Chart.js para mostrar um gráfico de pizza. Este gráfico exibe o percentual de receitas por categoria, buscando dados dinamicamente do db.json via JSONServer. Alterações nas receitas (adicionar, editar categoria, excluir) na página de cadastro (cadastro_receitas.html) atualizam o gráfico na página de estatísticas após recarregá-la. Links para a nova página foram adicionados à navegação do site.
 
 <<  COLOQUE A IMAGEM TELA 1 AQUI >>
 ![alt text](<Print 1.png>)
