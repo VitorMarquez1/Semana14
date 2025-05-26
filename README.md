@@ -11,15 +11,16 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome: 
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Vitor Oliveira Marquez
+- Matricula: 897352
+- Proposta de projeto escolhida: Diretório de Receitas
+- Breve descrição sobre seu projeto: Um site que reúne receitas culinárias organizadas por categoria (entradas, pratos principais, sobremesas). Os usuários podem visualizar ingredientes e modo de preparo, além de buscar receitas por nome ou por ingredientes específicos.
 
 **Print da tela com a implementação**
 
 << Coloque aqui uma breve explicação da implementação feita nessa etapa>>
 
 <<  COLOQUE A IMAGEM TELA 1 AQUI >>
-
+![alt text](<Print 1.png>)
 <<  COLOQUE A IMAGEM TELA 2 AQUI >>
+![alt text](<Print 2.png>)

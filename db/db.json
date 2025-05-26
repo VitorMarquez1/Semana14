@@ -1,7 +1,7 @@
 {
   "receitas": [
     {
-      "id": 1,
+      "id": "1",
       "nome": "Bolo de Cenoura com Cobertura de Chocolate Especial",
       "descricao_breve": "Um clássico delicioso, fofinho e agora em destaque!",
       "descricao_completa": "Este bolo de cenoura é uma receita tradicional que agrada a todos. A massa fofinha e a cobertura cremosa de chocolate formam uma combinação irresistível. Ideal para servir em lanches, festas ou como sobremesa.",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "nome": "Lasanha à Bolonhesa",
       "descricao_breve": "Uma receita tradicional italiana, rica e reconfortante.",
       "descricao_completa": "A lasanha à bolonhesa é um prato clássico da culinária italiana, perfeito para um almoço de domingo em família. Camadas de massa, molho à bolonhesa suculento e queijo derretido formam uma combinação deliciosa e satisfatória.",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "nome": "Salada Caprese",
       "descricao_breve": "Simples, fresca e cheia de sabor mediterrâneo.",
       "descricao_completa": "A salada Caprese é uma opção leve e refrescante, perfeita para os dias mais quentes. Com apenas alguns ingredientes de qualidade, você terá uma explosão de sabores.",
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "nome": "Feijoada Completa",
       "descricao_breve": "O prato mais emblemático da culinária brasileira.",
       "descricao_completa": "Uma feijoada completa, rica em sabores e tradição. Perfeita para reunir a família e amigos em um almoço especial. Servida com arroz branco, couve refogada, farofa e laranja.",
@@ -169,7 +169,7 @@
       "fotos_adicionais": []
     },
     {
-      "id": 5,
+      "id": "5",
       "nome": "Moqueca Baiana",
       "descricao_breve": "Um prato vibrante e aromático da Bahia.",
       "descricao_completa": "A moqueca baiana é um cozido de peixe delicioso, preparado com azeite de dendê, leite de coco, pimentões e coentro, que conferem um sabor único e marcante.",
@@ -207,7 +207,7 @@
       "fotos_adicionais": []
     },
     {
-      "id": 6,
+      "id": "6",
       "nome": "Pão de Queijo Mineiro",
       "descricao_breve": "Delícia crocante por fora e macia por dentro.",
       "descricao_completa": "O autêntico pão de queijo mineiro, perfeito para o café da manhã ou lanche da tarde. Uma receita simples que resulta em pãezinhos dourados e saborosos.",
@@ -238,7 +238,7 @@
       "fotos_adicionais": []
     },
     {
-      "id": 7,
+      "id": "7",
       "nome": "Brigadeiro Tradicional",
       "descricao_breve": "O docinho brasileiro mais amado e fácil de fazer.",
       "descricao_completa": "Brigadeiro é sinônimo de festa e alegria no Brasil. Esta receita simples e clássica resulta em um doce cremoso e delicioso, perfeito para todas as ocasiões.",
@@ -293,7 +293,7 @@
       "destaque": false,
       "imagem_principal": "imagens/mousse_maracuja.jpg",
       "fotos_adicionais": [],
-      "id": 9
+      "id": "9"
     },
     {
       "nome": "Parmegiana",
@@ -311,7 +311,25 @@
       "destaque": false,
       "imagem_principal": "",
       "fotos_adicionais": [],
-      "id": 10
+      "id": "10"
+    },
+    {
+      "id": "3a34",
+      "nome": "Moscow Mule",
+      "descricao_breve": "cocktail feito com vodka, cerveja de gengibre picante, e suco de limão",
+      "ingredientes": [
+        "60 ml de vodka",
+        "180 ml de cerveja de gengibre",
+        "15 ml de suco de limão",
+        "gelo"
+      ],
+      "preparo": "Separe uma caneca de cobre.\nColoque todos os ingredientes com gelo e misture.\nEmulsifique e decore com hortelã e fatias finas de limão-tahiti.\nSirva",
+      "tempo_preparo": "5 minutos",
+      "rendimento": "1 porção",
+      "categoria": "Bebidas",
+      "destaque": false,
+      "imagem_principal": "",
+      "fotos_adicionais": []
     }
   ]
 }
